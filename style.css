@@ -1,0 +1,18 @@
+body {
+	font-family: Helvetica;
+	color: red;
+}
+
+
+#pic {
+	height: 100px;
+	width: 100px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
